@@ -5,15 +5,22 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Xamarin.Forms;
 
 namespace appeleicao.ViewModels
 {
-    public class MainPageViewModel : ViewModelBase
+    public class MainPageViewModel : BindableBase
     {
-        public MainPageViewModel(INavigationService navigationService)
-            : base(navigationService)
+        public Command Cadastro{ get; set; }
+        public MainPageViewModel()   
         {
-            Title = "Main Page";
+
+            Cadastro = new Command(ExecuteCadastro);
+        }
+
+        private void ExecuteCadastro(object obj)
+        {
+            throw new NotImplementedException();
         }
     }
 }

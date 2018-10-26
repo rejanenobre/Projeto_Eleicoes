@@ -2,10 +2,30 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="appeleicao.Views.MainPage"
-             Title="{Binding Title}">
+             Title="Main Page">
 
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Welcome to Xamarin Forms and Prism!" />
+    <StackLayout 
+        BackgroundColor="White">
+        <Entry 
+            Placeholder="Nome"
+            TextColor="Pink"/>
+
+        <Entry 
+            Placeholder="Senha"
+            TextColor="Pink"/>
+        
+        <Button 
+            Command="{Binding Eleicao}"
+            Text="Entrar"/>
+        
+        <Button 
+            Command="{Binding Cadastro}"
+            Text="Cadastra-se"
+            TextColor="Blue"
+            FontSize="Micro"
+            BackgroundColor="White"
+            />
+        
     </StackLayout>
 
 </ContentPage>
