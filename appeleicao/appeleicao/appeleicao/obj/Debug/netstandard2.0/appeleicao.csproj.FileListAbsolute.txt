@@ -1,0 +1,16 @@
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\bin\Debug\netstandard2.0\appeleicao.deps.json
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\bin\Debug\netstandard2.0\appeleicao.dll
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\bin\Debug\netstandard2.0\appeleicao.pdb
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.csprojAssemblyReference.cache
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.AssemblyInfoInputs.cache
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.AssemblyInfo.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.dll
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\appeleicao.pdb
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\Views\CadastroPage.xaml.g.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\Views\CriarEleicao.xaml.g.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\carlo\source\git_include\Projeto_Eleicoes\appeleicao\appeleicao\appeleicao\obj\Debug\netstandard2.0\Views\EleicaoPage.xaml.g.cs

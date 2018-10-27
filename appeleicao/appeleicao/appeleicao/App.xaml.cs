@@ -28,8 +28,14 @@ namespace appeleicao
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
+            // Criando o registro para conseguir navegar pelas páginas
+
             containerRegistry.RegisterForNavigation<NavigationPage>();
-            containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
+            containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();  
+            containerRegistry.RegisterForNavigation<CadastroPage>();
+            containerRegistry.RegisterForNavigation<CriarEleicao>();
+            containerRegistry.RegisterForNavigation<LoginPage>();
+            containerRegistry.RegisterForNavigation<EleicaoPage>();
         }
     }
 }

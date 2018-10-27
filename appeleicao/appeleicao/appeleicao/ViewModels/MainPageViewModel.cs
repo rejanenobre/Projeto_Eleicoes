@@ -11,16 +11,38 @@ namespace appeleicao.ViewModels
 {
     public class MainPageViewModel : BindableBase
     {
-        public Command Cadastro{ get; set; }
-        public MainPageViewModel()   
-        {
+        INavigationService _navigationService;
 
-            Cadastro = new Command(ExecuteCadastro);
+        public DelegateCommand Cadastro{ get; set; }// Comando para ir para o cadastro
+
+        public DelegateCommand Eleicao{get; set;} //Comando para ir para criação da eleição
+
+        public DelegateCommand login { get; set; }
+
+        public MainPageViewModel(INavigationService navigationService)   
+        {
+            _navigationService = navigationService;  //Instânciando navigationService, para acessar a página do cadastro
+            Cadastro = new DelegateCommand(ExecuteCadastro);
+            Eleicao = new DelegateCommand(ExecuteEleicao);
+            login = new DelegateCommand(ExecuteLogin);
         }
 
-        private void ExecuteCadastro(object obj)
+        private void ExecuteLogin()
         {
-            throw new NotImplementedException();
+            _navigationService.NavigateAsync("LoginPage"); // Acessando a página do Login
         }
+
+        private void ExecuteEleicao()
+        {
+            _navigationService.NavigateAsync("CriarEleicao"); //Acessando a página Eleição
+        }
+
+        private void ExecuteCadastro()
+        {
+            _navigationService.NavigateAsync("CadastroPage"); // Acessando a página cadastro.
+        }
+
+    
+
     }
 }

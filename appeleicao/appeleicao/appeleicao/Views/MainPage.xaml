@@ -6,25 +6,21 @@
 
     <StackLayout 
         BackgroundColor="White">
-        <Entry 
-            Placeholder="Nome"
-            TextColor="Pink"/>
 
-        <Entry 
-            Placeholder="Senha"
-            TextColor="Pink"/>
-        
+        <Button 
+            Command="{Binding login}"
+            Text="Login"/>
+
         <Button 
             Command="{Binding Eleicao}"
-            Text="Entrar"/>
-        
+            Text="Crie sua votação"/>
+
         <Button 
             Command="{Binding Cadastro}"
             Text="Cadastra-se"
             TextColor="Blue"
             FontSize="Micro"
-            BackgroundColor="White"
-            />
+            BackgroundColor="White"/>
         
     </StackLayout>
 
