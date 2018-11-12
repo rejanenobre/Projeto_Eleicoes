@@ -23,7 +23,7 @@ namespace appeleicao
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/MainPage");
+            MainPage = new NavigationPage(new SplashPage());
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)

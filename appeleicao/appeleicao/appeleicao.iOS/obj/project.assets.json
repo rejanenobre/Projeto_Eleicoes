@@ -1052,11 +1052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\appeleicao.iOS.csproj",
+      "projectUniqueName": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\appeleicao.iOS.csproj",
       "projectName": "appeleicao.iOS",
-      "projectPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\appeleicao.iOS.csproj",
+      "projectPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\appeleicao.iOS.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\obj\\",
+      "outputPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1073,8 +1073,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj": {
-              "projectPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj"
+            "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj": {
+              "projectPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj"
             }
           }
         }

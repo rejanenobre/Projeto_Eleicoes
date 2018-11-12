@@ -946,11 +946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\appeleicao.Android.csproj",
+      "projectUniqueName": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\appeleicao.Android.csproj",
       "projectName": "appeleicao.Android",
-      "projectPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\appeleicao.Android.csproj",
+      "projectPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\appeleicao.Android.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\obj\\",
+      "outputPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -967,8 +967,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj": {
-              "projectPath": "C:\\Users\\carlo\\source\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj"
+            "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj": {
+              "projectPath": "C:\\git_include\\Projeto_Eleicoes\\appeleicao\\appeleicao\\appeleicao\\appeleicao.csproj"
             }
           }
         }
